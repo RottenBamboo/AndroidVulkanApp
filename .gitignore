@@ -4,3 +4,4 @@ app/src/assets
 build/*
 .gradle
 .idea
+local.properties
