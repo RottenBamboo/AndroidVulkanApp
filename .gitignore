@@ -1,6 +1,6 @@
-app/build/*
-app/src/jniLibs/*
-app/src/assets/*
+app/build
+app/src/jniLibs
+app/src/assets
 build/*
 .gradle
 .idea
